@@ -31,4 +31,4 @@ You can choose from these formats when prompted by the script.
 1. **Clone the repository** or **download** the script file (`JPG_to_PNG.ps1`).
    
    ```bash
-   git clone https://github.com/yourusername/image-format-converter.git
+   git clone https://github.com/Frisky100/JPG_to_PNG.git
