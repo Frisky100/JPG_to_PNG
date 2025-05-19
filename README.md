@@ -1,5 +1,7 @@
 # Image Format Converter Script (PowerShell)
 
+Used for a bigger project.
+
 This PowerShell script allows you to batch convert images in a specified folder from one format to another. You can choose the input and output folders, as well as the desired output image format (e.g., PNG, JPEG, BMP, GIF).
 
 ## Features
